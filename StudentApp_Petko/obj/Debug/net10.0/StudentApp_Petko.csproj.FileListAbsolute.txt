@@ -1,0 +1,16 @@
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\bin\Debug\net10.0\StudentApp_Petko.exe
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\bin\Debug\net10.0\StudentApp_Petko.deps.json
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\bin\Debug\net10.0\StudentApp_Petko.runtimeconfig.json
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\bin\Debug\net10.0\StudentApp_Petko.dll
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\bin\Debug\net10.0\StudentApp_Petko.pdb
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.AssemblyInfo.cs
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.sourcelink.json
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.dll
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\refint\StudentApp_Petko.dll
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.pdb
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentApp_Petko.genruntimeconfig.cache
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\ref\StudentApp_Petko.dll
+C:\Users\student\Downloads\StudentApp_Petko\StudentApp_Petko\obj\Debug\net10.0\StudentA.550F788B.Up2Date
